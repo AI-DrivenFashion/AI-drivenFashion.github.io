@@ -1,7 +1,6 @@
-# Uncertainty Quantification in DL Models for Cervical Cytology
+# Generative Models and Recommender Systems for AI-driven Fashion
 
-- #### Authors: Shubham Ojha & Aditya Narendra
-- #### Venue & Year: Medical Imaging with Deep Learning (MIDL), 2024
+To be Updated
 
 
 
